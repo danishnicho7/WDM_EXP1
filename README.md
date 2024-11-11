@@ -53,11 +53,10 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
-Training Data Set -> Employee Table
-![WDM Ex 1 A](https://github.com/user-attachments/assets/4dae4b4e-bb67-4373-bfa7-34a0a5f0a3a7)
-Training Data Set-> Weather Table
-![WDM Ex 1 B](https://github.com/user-attachments/assets/6d995780-48b5-4a20-92ee-e60c9eca3a86)
-
+## Training Data Set employee Table
+![web data1](https://github.com/user-attachments/assets/b36da19e-1330-47b9-a602-2020fc809fb9)
+## Training Data Set Weather Table
+![web data2](https://github.com/user-attachments/assets/3f92325f-4fe3-4296-a65a-2b8b9ebf2088)
 
 ### PREPROCESSING
 ### Procedure:
@@ -78,11 +77,10 @@ Training Data Set-> Weather Table
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
-Employee Table after adding new attribute ADDRESS:
-![WDM Ex 1 D ii](https://github.com/user-attachments/assets/27d5e27c-8068-47b3-8a77-ff935815e880)
-Weather Table after adding new attribute CLIMATE:
-![WDM Ex 1 C ii](https://github.com/user-attachments/assets/0d46fc44-653b-4b3b-837a-b8ec801274a8)
-
+## Weather Table after adding new attribute CLIMATE:
+![WDM Ex 1 C ii](https://github.com/user-attachments/assets/4941c6aa-3011-40aa-ace3-3aae4de90c06)
+## Employee Table after adding new attribute ADDRESS:
+![WDM Ex 1 D ii](https://github.com/user-attachments/assets/9cdb72da-4a43-493d-b70a-d71eb821e7c8)
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -99,15 +97,10 @@ Weather Table after adding new attribute CLIMATE:
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
-
-Employee Table after removing attributes SALARY, GENDER:
-
-![WDM Ex 1 D iii](https://github.com/user-attachments/assets/30509d64-b4b0-4f6e-b680-8e1e4f65b76e)
-Weather Table after removing attributes WINDY, PLAY:
-![WDM Ex 1 C iii](https://github.com/user-attachments/assets/9efadd38-3373-407a-a3ce-a06db862c4d7)
-
-
-
+## Weather Table after removing attributes WINDY, PLAY:
+![WDM Ex 1 C iii](https://github.com/user-attachments/assets/212d5f89-3f8b-4efc-be14-cb0d37fb7652)
+## Employee Table after removing attributes SALARY, GENDER:
+![WDM Ex 1 D iii](https://github.com/user-attachments/assets/c94d9eef-396e-4643-b44e-14a39bd17a89)
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -124,11 +117,14 @@ Weather Table after removing attributes WINDY, PLAY:
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+## Weather Table after Normalizing TEMPARATURE, HUMIDITY:
+![WEB Ex 1 C iv](https://github.com/user-attachments/assets/8ca1f92a-2cea-48c6-94b5-ae306e06ae25)
+## Employee Table after Normalizing ID, EXP, PHONE:
+![WDM Ex 1 D iv](https://github.com/user-attachments/assets/33c0b3f5-7461-4a43-9559-1fbf56e14a9f)
 
-Employee Table after Normalizing ID, EXP, PHONE:
-![WDM Ex 1 D iv](https://github.com/user-attachments/assets/3eedc318-55c9-4d59-9df1-4f36fd73d612)
-Weather Table after Normalizing TEMPARATURE, HUMIDITY:
-![WEB Ex 1 C iv](https://github.com/user-attachments/assets/00c8427f-9828-4812-9ca5-7f78a3c6100b)
+
+
+
 
 
 ### RESULT: 
